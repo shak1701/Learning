@@ -7,6 +7,8 @@ namespace Learning
         {
             Console.WriteLine("Hi");
             Console.WriteLine("Hi");
+            Console.WriteLine("Hi");
+
 
         }
     }

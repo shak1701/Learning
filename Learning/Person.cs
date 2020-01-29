@@ -6,6 +6,8 @@ namespace Learning
         public Person()
         {
             Console.WriteLine("Hi");
+            Console.WriteLine("Hi");
+
         }
     }
 }
